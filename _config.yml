@@ -98,6 +98,10 @@ page-mathjax: false
 # Friends
 friends: [
   {
+    title: "Gityuan",
+    href: "http://www.gityuan.com",
+  },
+  {
     title: "国际哥的独立博客",
     href: "http://www.shaoguoji.cn",
   },
